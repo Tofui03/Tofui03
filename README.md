@@ -15,4 +15,4 @@ Python · PyTorch · Ultralytics YOLOv8 · OpenCV · ONNX Runtime · FastAPI · 
 
 ## Contact
 
-[LinkedIn](https://linkedin.com/in/gwenfred-tham-262545183) · gwenfredtham@gmail.com
+[Portfolio](https://tofui03.github.io) · [LinkedIn](https://linkedin.com/in/gwenfred-tham-262545183) · gwenfredtham@gmail.com
